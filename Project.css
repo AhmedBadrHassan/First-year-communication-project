@@ -1,0 +1,39 @@
+body{
+margin: 0;
+background-color: rgb(170 206 202 / 23%);
+}
+
+.page {
+
+width: 20%;
+padding-top:8px;
+padding-bottom: 9px;
+text-align: center;
+float: left;
+background-color: rgb(243, 247, 36);
+color: black;
+
+}/*
+div :hover{background-color: rgb(220, 250, 50);
+}*/
+ul,li{
+
+text-decoration: none;
+
+}
+p{text-indent: 30px;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+}
+h3{margin-left: 20px;font-size: 22px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    text-decoration: underline;
+   
+}*{margin-top: 0%;}
+.imgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
